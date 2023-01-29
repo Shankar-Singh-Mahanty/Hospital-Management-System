@@ -1,0 +1,57 @@
+Form                           		Strength                                  	Reference   	DrugName			ActiveIngredient                              
+**********************************************************************************************************************************************************************************
+DROPS;OPHTHALMIC		1%                                        	0           	PAREDRINE                          	HYDROXYAMPHETAMINE HYDROBROMIDE                
+TABLET                   		500MG                                     	0           	SULFAPYRIDINE                    	SULFAPYRIDINE                                  
+INJECTION           		          20,000 UNITS/ML                     0           	LIQUAEMIN SODIUM          	HEPARIN SODIUM                                 
+INJECTION           		          40,000 UNITS/ML                     0           	LIQUAEMIN SODIUM       	HEPARIN SODIUM                                
+INJECTION           		          5,000 UNITS/ML                       0           	LIQUAEMIN SODIUM        	HEPARIN SODIUM                                
+INJECTION           		          1,000 UNITS/ML                            	0           	LIQUAEMIN SODIUM        	HEPARIN SODIUM                                
+INJECTION           		         10,000 UNITS/ML                           	0           	LIQUAEMIN SODIUM         	HEPARIN SODIUM                                
+INJECTION           		         100 UNITS/ML                              	0           	LIQUAEMIN LOCK FLUSH      	HEPARIN SODIUM                             
+TABLET                    	         50MG                                      		0           	PBZ                                	TRIPELENNAMINE HCL                
+ORAL                   	 	         EQ 25MG HCL  /5ML             		0           	PBZ                                	TRIPELENNAMINE CITRATE                         
+INJECTION           		         1MG/ML                                    	1           	D.H.E. 45                          	DIHYDROERGOTAMINE MESYLATE           
+INJECTION           		5%                                        		0           	AMINOSOL 5%            	PROTEIN HYDROLYSATE                            
+INJECTION           		10%                                       		1           	BAL                                	DIMERCAPROL                                    
+DROPS;OPHTHALMIC      	10%  					1           	SODIUM SULAMYD       	SULFACETAMIDE SODIUM                           
+OINTMENT;OPHTHALMIC    	10%  					1           	SODIUM SULAMYD       	SULFACETAMIDE SODIUM                           
+DROPS;OPHTHALMIC      	30%  					1           	SODIUM SULAMYD     	SULFACETAMIDE SODIUM                           
+INJECTION           		1% 					1           	SOTRADECOL                	SODIUM TETRADECYL SULFATE                      
+INJECTION           		3% 					1           	SOTRADECOL            		SODIUM TETRADECYL SULFATE                      
+TABLET                   		500MG                                               	1           	ARALEN                      		CHLOROQUINE PHOSPHATE                          
+INJECTION           		EQ 40MG BASE/ML                           	0           	ARALEN HCL     		CHLOROQUINE HCL                      
+TABLET                    		100MG  				1           	MESANTOIN                          	MEPHENYTOIN                                    
+CAPSULE                   		182MG;0.33MG                              	0           	FOLVRON                            	FERROUS SULFATE; FOLIC ACID                    
+TABLET                   		0.2MG   				1           	METHERGINE                         	METHYLERGONOVINE MALEATE                       
+INJECTION           		0.2MG/ML                                  	1           	METHERGINE                         	METHYLERGONOVINE MALEATE                       
+TABLET, DELAYED RELEASE    165MG                                     	0           	DIASONE SODIUM                  SULFOXONE SODIUM                               
+INJECTION           		50MG/ML;0.03MG/ML;           	0		BEROCCA PN                         	ASCORBIC ACID; BIOTIN; 
+				0.0025MG/ML;7.5MG/ML;100     							CYANOCOBALAMIN; DEXPANTH0
+INJECTION           		3MG/ML                                    	0           	TUBOCURARINE CHLORIDE   	TUBOCURARINE CHLORIDE                          
+CREAM;VAGINAL                 	0.01%                                     		0           	DIENESTROL                         	DIENESTROL                                     
+TABLET                    		5MG 					1           	DOLOPHINE HCL            	METHADONE HCL                        
+SYRUP                     		10MG/30ML                                 	0           	DOLOPHINE HCL            	METHADONE HCL                        
+TABLET                    		10MG 					1           	DOLOPHINE HCL            	METHADONE HCL                        
+TABLET                    		1MG                                       		0           	FOLIC ACID                         	FOLIC ACID                                     
+INJECTION           		10MG/ML                                   	0           	BENADRYL                           	DIPHENHYDRAMINE HCL                  
+INJECTION           		50MG/ML                                   	1           	BENADRYL                           	DIPHENHYDRAMINE HCL                  
+INJECTION           		5%                                        		0           	HYPROTIGEN 5%                    PROTEIN HYDROLYSATE                            
+TABLET                    		50MG                                      		1           	PROPYLTHIOURACIL    	PROPYLTHIOURACIL                               
+INJECTION           		2.5MG/ML                                  	0           	HEAVY Sol. NUPERCAINE       DIBUCAINE HCL                        
+TABLET                    		50MG                                      		0           	PROPYLTHIOURACIL              	PROPYLTHIOURACIL                               
+SOAP;TOPICAL                  	2%                                        		0           	GAMOPHEN                           	HEXACHLOROPHENE                                
+CREAM;TOPICAL                  	1%                                        		0           	KWELL                              	LINDANE                                        
+TABLET                    		25MG                                      		0           	DECAPRYN                           	DOXYLAMINE SUCCINATE                           
+TABLET                    		12.5MG                                    	0           	DECAPRYN                           	DOXYLAMINE SUCCINATE                           
+TABLET                   		EQ 200MG BASE                             	0           	CAMOQUIN HCL             	AMODIAQUINE HCL                      
+TABLET                    		50MG                                      		0           	HETRAZAN                           	DIETHYLCARBAMAZINE CITRATE                     
+TABLET                    		10MG                                      		0           	CORTISONE ACETATE    	CORTISONE ACETATE                              
+CREAM;TOPICAL                 	20%                                       		0           	BENOQUIN                		MONOBENZONE                                    
+INJECTION           		25MG/ML                                   	0           	HYDROCORTONE          	HYDROCORTISONE ACETATE                         
+INJECTION           		50MG/ML                                   	0           	HYDROCORTONE      		HYDROCORTISONE ACETATE                         
+INJECTION           		EQ 30MG BASE/ML                           	0           	WYAMINE SULFATE         	MEPHENTERMINE SULFATE           
+SUSPENSION                	100MG/5ML                                 	0           	CHILDREN'S ADVIL        	IBUPROFEN                                      
+SUSPENSION                	100MG/5ML                                 	0           	CHILDREN'S ADVIL-FLAVOR	IBUPROFEN                                      
+TABLET, EXTENDED RELEASE  2MG;180MG                                 	1           	TARKA                              	TRANDOLAPRIL; VERAPAMIL HCL          
+TABLET, EXTENDED RELEASE  4MG;240MG                                 	1           	TARKA                              	TRANDOLAPRIL; VERAPAMIL HCL          
+TABLET, EXTENDED RELEASE  1MG;240MG                                 	1           	TARKA                              	TRANDOLAPRIL; VERAPAMIL HCL          
